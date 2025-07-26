@@ -1,12 +1,12 @@
-# 🌳 Tree Species Classification using Traditional Machine Learning
+#  Tree Species Classification using Traditional Machine Learning
 
 This project aims to classify tree species based on image-derived features using traditional Machine Learning techniques. It was built as part of a competitive challenge to showcase effective classification without using deep learning.
 
-## 📌 Problem Statement
+## Problem Statement
 
 Given a dataset of tree leaf images, the objective is to correctly classify the species of each tree using handcrafted features and traditional ML algorithms like SVM, Random Forest, etc.
 
-## 📂 Dataset
+## Dataset
 
 - **Source**: [Kaggle - Tree Species Identification Dataset](https://www.kaggle.com/datasets/viditgandhi/tree-species-identification-dataset)
 - **Total Classes**: 15 species
@@ -35,15 +35,15 @@ Given a dataset of tree leaf images, the objective is to correctly classify the 
 - Classification Report
 - Confusion Matrix
 
-## 📊 Results
+##  Results
 
-- ✅ Best Accuracy: **66%**
+-  Best Accuracy: **66%**
 - Weighted F1-Score: **0.65**
 - Notable class-wise performance:
   - `pilikaren`, `other`, and `nilgiri` performed very well
   - `mango` and `asopalav` classes were underrepresented
 
-## 📉 Classification Report Snapshot
+##  Classification Report Snapshot
 precision    recall  f1-score   support
 
  pilikaren      1.00      1.00      1.00        10
@@ -56,19 +56,19 @@ precision    recall  f1-score   support
 Accuracy: 0.66
 
 
-## 🔍 Observations
+##  Observations
 
 - **Data Imbalance** negatively affected some classes
 - **Traditional ML** worked decently well given simple features
 - Accuracy could improve with more feature engineering or deep learning
 
-## 🚀 Future Work
+##  Future Work
 
 - Explore image augmentation to reduce overfitting
 - Use texture-based features like LBP or HOG
 - Try CNNs for improved performance
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Scikit-learn
@@ -77,5 +77,8 @@ Accuracy: 0.66
 - OpenCV
 
 
----
+##  Author
+
+- **Geetha** — [GitHub](https://github.com/she-codesstuff)
+
 
