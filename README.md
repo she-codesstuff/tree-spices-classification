@@ -12,7 +12,7 @@ Given a dataset of tree leaf images, the objective is to correctly classify the 
 - **Total Classes**: 15 species
 - **Data Format**: Images with labels stored in folders
 
-## 🧪 Approach
+## Approach
 
 ### 1. **Preprocessing**
 - Resized all images to 64x64 pixels
