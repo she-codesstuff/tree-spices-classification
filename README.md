@@ -37,8 +37,8 @@ Given a dataset of tree leaf images, the objective is to correctly classify the 
 
 ##  Results
 
--  Best Accuracy: **66%**
-- Weighted F1-Score: **0.65**
+-  Best Accuracy: **86%**
+- Weighted F1-Score: **0.80**
 - Notable class-wise performance:
   - `pilikaren`, `other`, and `nilgiri` performed very well
   - `mango` and `asopalav` classes were underrepresented
